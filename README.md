@@ -7,3 +7,6 @@ Desenvolvido durante a NLW Spacetime da Rocketseat utilizando as seguintes tecno
 - HTML
 - CSS
 - Git
+
+## Pages
+[Projeto](https://natanboschetti.github.io/nlwspacetime-explorer/)
