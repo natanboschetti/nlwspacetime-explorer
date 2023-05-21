@@ -108,11 +108,19 @@ aside * {
   color: #eaeaea;
 }
 
-.memory img {
+.memory div.image {
   width: 100%;
   height: 280px;
   object-fit: cover;
   border-radius: 0.5rem;
+  border: 1px solid #727275;
+
+  text-decoration: none;
+  color: #bebebf;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
   transition: transform 0.3s ease-in-out;
 }
